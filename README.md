@@ -51,6 +51,7 @@ This is a front-end-only web application that allows users to create quizzes and
 
 ## 🧑‍💻 Contributors
 
+- Rugved C Sangulkar
 - Keerti Nandi
 - Krutika Kanchani
 - Prashant Hadpad
